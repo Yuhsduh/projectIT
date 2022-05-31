@@ -1,0 +1,54 @@
+body {
+    background-color: #343148FF;
+    width:1000px;
+    margin:auto;
+}
+
+header {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    background-color: #D7C49EFF;
+    text-align: center;
+    vertical-align: center;
+}
+
+footer {
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color: #D7C49EFF;
+    text-align: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #343148FF;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h6 {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #343148FF;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#artistName {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    
+}
